@@ -1,5 +1,6 @@
 # gameoflife
 (WIP) A Java implementation of Conway's Game of Life
+https://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
 The code is a bit messy, and should use a better cell-proximity checker for each generation so that the outer 3x3 cell border is usable space.
 
