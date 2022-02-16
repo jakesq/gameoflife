@@ -6,5 +6,5 @@ The code is a bit messy, and should use a better cell-proximity checker for each
 
 I will be updating this in my spare time, adding new features and refactoring the code as I become more comfortable with Java.
 
-#### Successful Execution
+#### Runtime on macOS 12.0
 ![window](https://raw.githubusercontent.com/jakesq/gameoflife/main/window.png)
