@@ -2,6 +2,8 @@
 (WIP) A Java implementation of Conway's Game of Life
 https://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
+![Image of app displaying 1 Beacon and 4 Gliders](https://github.com/jakesq/gameoflife/blob/main/img.png?raw=true)
+
 Issues:
 - Buttons won't appear unless you click outside the window, then back inside,
 
